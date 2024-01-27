@@ -1,8 +1,10 @@
 function About() {
   return (
     <div className="  ">
-      <div className="bg-[#3c6e71] p-3  font-sans  rounded pb-9 ">
-        <p className=" font-semibold text-3xl text-gray-100  mb-2  ">About</p>
+      <div className="bg-[#3c6e71] p-3  font-sans   pb-9 mb-10 ">
+        <p className=" font-semibold text-3xl text-gray-100  mb-2 up  ">
+          About
+        </p>
 
         <div className=" flex  ">
           <p className=" text-base text-gray-100  font-semibold  ">
