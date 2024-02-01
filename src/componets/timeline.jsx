@@ -12,7 +12,7 @@ function Timelinee() {
           <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
             Front-End Developer for Altamir Company
           </h3>
-          <p className="text-sm   text-gray-800 font-semibold dark:text-gray-400">
+          <p className="text-sm   text-black   font-semibold   dark:text-gray-400">
             Designed and developed brilliant user interfaces using figma ,
             ReactJs , Css my design and technical skills have led to the
             creation of unique and beautiful user interfaces.
@@ -26,7 +26,7 @@ function Timelinee() {
           <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
             Ieee Uofk Technical Team
           </h3>
-          <p className="text-sm   font-semibold  text-gray-800 dark:text-gray-400">
+          <p className="text-sm  font-semibold   text-black  dark:text-gray-400">
             Collaborated effectively with the technical team to seamlessly
             integrate design and development.
           </p>

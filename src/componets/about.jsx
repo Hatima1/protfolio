@@ -2,12 +2,10 @@ function About() {
   return (
     <div className="  " id="about">
       <div className=" bg-teal-800 p-3 py-5  font-sans   pb-9 mb-10 ">
-        <p className=" font-semibold text-3xl text-gray-100  mb-2 up  ">
-          About
-        </p>
+        <p className=" font-semibold text-3xl text-gray-100  mb-1   ">About</p>
 
         <div className=" flex  ">
-          <p className=" text-sm md:text-lg text-gray-100 font-medium    ">
+          <p className=" text-sm md:text-lg text-gray-100  font-semibold   ">
             I'm a front end developer with four years of experience in web
             development. Specializing in designing and developing user
             experiences that are responsive across various devices, I am
