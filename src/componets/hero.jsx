@@ -27,7 +27,7 @@ function Hero() {
 
           <div></div>
           <a
-            href="https://drive.google.com/file/d/18S5_Gh2EiI8ZIUucqCtwjHj73e9R3adX/view?usp=sharing"
+            href="https://drive.google.com/file/d/19CJcc1phjAK2Fxg0_zSoPfHojZQgpGMQ/view?usp=sharing"
             className=" flex  items-center rounded-sm  p-1  bg-gray-900  text-white text-sm font-semibold"
           >
             <FaExternalLinkAlt style={{ fontSize: "10px" }} /> open cv
