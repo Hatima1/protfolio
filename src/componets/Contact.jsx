@@ -19,11 +19,9 @@ function Contact() {
         <a href="https://github.com/Hatima1">
           <FaGithub style={{ fontSize: "20px" }} />
         </a>
-        <FaLinkedin style={{ fontSize: "20px" }} />
-        {/* <div></div>
-          <span className=" flex  items-center rounded-sm  p-2  bg-gray-900  text-white text-sm font-semibold">
-            <FaExternalLinkAlt style={{ fontSize: "10px" }} /> Open Cv
-          </span> */}
+        <a href="https://www.linkedin.com/in/hatim-alkhalifa-bb7aa6226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+          <FaLinkedin style={{ fontSize: "20px" }} />
+        </a>
       </div>
     </div>
   );

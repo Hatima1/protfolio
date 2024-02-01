@@ -21,14 +21,17 @@ function Hero() {
           <a href="https://github.com/Hatima1">
             <FaGithub style={{ fontSize: "20px" }} />
           </a>
-          <a>
+          <a href="https://www.linkedin.com/in/hatim-alkhalifa-bb7aa6226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
             <FaLinkedin style={{ fontSize: "20px" }} />
           </a>
 
           <div></div>
-          <span className=" flex  items-center rounded-sm  p-1  bg-gray-900  text-white text-sm font-semibold">
+          <a
+            href="https://drive.google.com/file/d/1RUXicnYapS6S2au3es0DwvHQt3UwbxtI/view?usp=drive_link"
+            className=" flex  items-center rounded-sm  p-1  bg-gray-900  text-white text-sm font-semibold"
+          >
             <FaExternalLinkAlt style={{ fontSize: "10px" }} /> open cv
-          </span>
+          </a>
         </div>
       </div>
       <div className=" md:row-auto    ">
