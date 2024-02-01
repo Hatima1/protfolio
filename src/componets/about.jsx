@@ -1,21 +1,19 @@
 function About() {
   return (
-    <div className="  ">
-      <div className="bg-[#3c6e71] p-3  font-sans   pb-9 mb-10 ">
+    <div className="  " id="about">
+      <div className=" bg-teal-800 p-3 py-5  font-sans   pb-9 mb-10 ">
         <p className=" font-semibold text-3xl text-gray-100  mb-2 up  ">
           About
         </p>
 
         <div className=" flex  ">
-          <p className=" text-base text-gray-100  font-semibold  ">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae,
-            impedit ducimus fugit, repellendus possimus libero est eum error
-            eius amet dolor? Ipsa minus cum repellat nihil laudantium fuga a
-            suscipit Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Optio, rerum blanditiis debitis itaque aliquid tempora
-            necessitatibus laboriosam. Odit totam maiores, consequuntur
-            quibusdam eius, rerum sequi repellat voluptatum illum corrupti
-            officia.
+          <p className=" text-sm md:text-lg text-gray-100 font-medium    ">
+            I'm a front end developer with four years of experience in web
+            development. Specializing in designing and developing user
+            experiences that are responsive across various devices, I am
+            passionate about optimizing web performance. I strive to transform
+            ideas into reality and always looking forward to new challenges.When
+            I'm not coding, you'll find me playing chess.
           </p>
           {/* <div className="  flex-shrink w-96 ">
             <img

@@ -1,88 +1,143 @@
 function Project() {
   return (
-    <div className=" pb-10">
-      <div className=" border-t  border-gray-500 w-full h-1 mb-7"></div>
-      <p className=" text-2xl font-semibold text-gray-900 mb-7 uppercase ">
-        Project
+    <div className=" pb-10" id="Project">
+      <p className=" underline text-2xl font-semibold text-gray-900 mb-4 uppercase px-2 ">
+        Projects
       </p>
-      <div className=" flex gap-3 bg-gray-50  shadow-md  rounded     mb-3 ">
-        <img className=" w-96" src="..\Screenshot 2024-01-27 053240.png" />
-        <div>
-          <div className=" font-semibold text-xl">1- FilmSync</div>
+
+      <div className=" flex md:flex-row flex-col gap-3 bg-gray-100 border-t  shadow-md  rounded px-2     mb-8 ">
+        <img className=" w-60 md:w-96" src="\movie.png" alt="project" />
+        <div className=" w-full ">
+          <div className="  font-bold text-xl"> FilmSync</div>
           <p className=" font-semibold text-sm text-gray-800">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo
-            veritatis aspernatur, autem aperiam repellendus debitis eaque
-            perferendis? Optio, aut, porro amet perspiciatis reprehenderit unde
-            ullam quisquam reiciendis, et neque dignissimos Lorem ipsum dolor
-            sit amet consectetur adipisicing elit. Ratione quam sint minus
-            deleniti accusantium excepturi, explicabo, et corporis quo nesciunt
-            harum laudantium eos quos a ipsum aut facere dolores repellendus
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fuga
-            doloribus possimus facilis dolore repudiandae dicta dignissimos
-            aliquam neque, enim voluptatum maiores. Laudantium alias officia
-            quam esse! Iusto doloremque odit id.
+            Social platform for sharing film that combines social interaction
+            and film recommendations , with the added feature of purchasing
+            cinema tickets added interactive features such as weekly film
+            suggestions and user profile picture management to enhance user
+            interaction with the platform.
           </p>
           <div className=" flex justify-end gap-2  ">
-            <p className=" font-semibold text-sm text-gray-900 underline">
+            <a
+              className=" font-semibold text-sm text-gray-900 underline"
+              href="https://film-sync.vercel.app/"
+            >
               see live
-            </p>
-            <p className=" font-semibold text-sm text-gray-900 underline">
+            </a>
+            <a
+              className=" font-semibold text-sm text-gray-900 underline"
+              href="https://github.com/Hatima1/FilmSync"
+            >
               Github
-            </p>
+            </a>
           </div>
         </div>
       </div>
-      <div className=" flex gap-3 bg-gray-50  shadow-lg  rounded  hover:bg-gray-300 transition-all   mb-3 ">
-        <img className=" w-96" src="..\Screenshot 2024-01-27 053240.png" />
-        <div>
-          <div className=" font-semibold text-xl">1- FilmSync</div>
+
+      <div className=" flex md:flex-row flex-col gap-3 bg-gray-100 border-t  shadow-md  rounded px-2    mb-8  ">
+        <img className=" w-60 md:w-96" src="/wild.png" alt="prject" />
+        <div className=" w-full ">
+          <div className="  font-bold text-xl"> The wild Ossis </div>
           <p className=" font-semibold text-sm text-gray-800">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo
-            veritatis aspernatur, autem aperiam repellendus debitis eaque
-            perferendis? Optio, aut, porro amet perspiciatis reprehenderit unde
-            ullam quisquam reiciendis, et neque dignissimos Lorem ipsum dolor
-            sit amet consectetur adipisicing elit. Ratione quam sint minus
-            deleniti accusantium excepturi, explicabo, et corporis quo nesciunt
-            harum laudantium eos quos a ipsum aut facere dolores repellendus
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fuga
-            doloribus possimus facilis dolore repudiandae dicta dignissimos
-            aliquam neque, enim voluptatum maiores. Laudantium alias officia
-            quam esse! Iusto doloremque odit id.
+            Reservation management system that organizes internal reservations,
+            facilitating the efficient management of hotel rooms and guests The
+            system provides the capability to display detailed analytics of
+            sales and booking data over a three-month period, enabling the hotel
+            to understand performance and make strategic decisions.
           </p>
           <div className=" flex justify-end gap-2  ">
-            <p className=" font-semibold text-sm text-gray-900 underline">
+            <a
+              className=" font-semibold text-sm text-gray-900 underline"
+              href="https://the-wild-oassis.vercel.app/"
+            >
               see live
-            </p>
-            <p className=" font-semibold text-sm text-gray-900 underline">
+            </a>
+            <a
+              className=" font-semibold text-sm text-gray-900 underline"
+              href="https://github.com/Hatima1/the-wild-oasiss"
+            >
               Github
-            </p>
+            </a>
           </div>
         </div>
       </div>
-      <div className=" flex gap-3 bg-gray-100 shadow-md  rounded     mb-3 ">
-        <img className=" w-96" src="..\Screenshot 2024-01-27 053240.png" />
-        <div>
-          <div className=" font-semibold text-xl">1- FilmSync</div>
+
+      <div className=" flex md:flex-row flex-col gap-3 bg-gray-100 border-t  shadow-md  rounded px-2     mb-8  ">
+        <img className=" w-60 md:w-96" src="\pizaa.png" alt="project img" />
+        <div className=" w-full ">
+          <div className="  font-bold text-xl"> Fast Pizza </div>
           <p className=" font-semibold text-sm text-gray-800">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo
-            veritatis aspernatur, autem aperiam repellendus debitis eaque
-            perferendis? Optio, aut, porro amet perspiciatis reprehenderit unde
-            ullam quisquam reiciendis, et neque dignissimos Lorem ipsum dolor
-            sit amet consectetur adipisicing elit. Ratione quam sint minus
-            deleniti accusantium excepturi, explicabo, et corporis quo nesciunt
-            harum laudantium eos quos a ipsum aut facere dolores repellendus
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fuga
-            doloribus possimus facilis dolore repudiandae dicta dignissimos
-            aliquam neque, enim voluptatum maiores. Laudantium alias officia
-            quam esse! Iusto doloremque odit id.
+            A website that allows users to easily and efficiently order pizza
+            online and allows users to dynamically monitor the status of their
+            orders by ID , from order placement to delivery time
           </p>
           <div className=" flex justify-end gap-2  ">
-            <p className=" font-semibold text-sm text-gray-900 underline">
+            <a
+              className=" font-semibold text-sm text-gray-900 underline"
+              href="https://react-fast-pizzaa.vercel.app/"
+            >
               see live
-            </p>
-            <p className=" font-semibold text-sm text-gray-900 underline">
+            </a>
+            <a
+              className=" font-semibold text-sm text-gray-900 underline"
+              href="https://github.com/Hatima1/fast-react-pizza"
+            >
               Github
-            </p>
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div className=" flex md:flex-row flex-col gap-3 bg-gray-100 border-t  shadow-md  rounded px-2     mb-8  ">
+        <img className=" w-60 md:w-96" src="\map.png" alt="project img" />
+        <div className=" w-full ">
+          <div className="  font-bold text-xl"> Mapty</div>
+          <p className=" font-semibold text-sm text-gray-800">
+            Track your daily activities on foot or on a bike review statistics
+            of your daily progress and analytical insights into your activities
+            Browse and review your past logs to see the evolution of your
+            activities.
+          </p>
+          <div className=" flex justify-end gap-2  ">
+            <a
+              className=" font-semibold text-sm text-gray-900 underline"
+              href="https://mappty.vercel.app/"
+            >
+              see live
+            </a>
+            <a
+              className=" font-semibold text-sm text-gray-900 underline"
+              href="https://github.com/Hatima1/maptyy"
+            >
+              Github
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div className=" flex md:flex-row flex-col gap-3 bg-gray-100 border-t  shadow-md  rounded px-2     mb-3 ">
+        <img
+          className=" rounded w-64  md:w-96"
+          alt="project img"
+          src="\omnif.png"
+        />
+        <div className=" w-full ">
+          <div className="  font-bold text-xl">optimizationss</div>
+          <p className=" font-semibold text-sm text-gray-800">
+            Landing page for a restaurant.
+          </p>
+          <div className=" flex justify-end gap-2  ">
+            <a
+              className=" font-semibold text-sm text-gray-900 underline"
+              href="https://optimizationss.vercel.app/"
+            >
+              see live
+            </a>
+            <a
+              className=" font-semibold text-sm text-gray-900 underline"
+              href="https://github.com/Hatima1/Optimizations"
+            >
+              Github
+            </a>
           </div>
         </div>
       </div>
