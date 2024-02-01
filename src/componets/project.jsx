@@ -9,7 +9,7 @@ function Project() {
         <img className=" w-60 md:w-96" src="\movie.png" alt="project" />
         <div className=" w-full ">
           <div className="  font-bold text-xl"> FilmSync</div>
-          <p className=" font-semibold text-sm text-gray-800">
+          <p className="  font-semibold  text-sm text-black">
             Social platform for sharing film that combines social interaction
             and film recommendations , with the added feature of purchasing
             cinema tickets added interactive features such as weekly film
@@ -32,12 +32,11 @@ function Project() {
           </div>
         </div>
       </div>
-
       <div className=" flex md:flex-row flex-col gap-3 bg-gray-100 border-t  shadow-md  rounded px-2    mb-8  ">
         <img className=" w-60 md:w-96" src="/wild.png" alt="prject" />
         <div className=" w-full ">
           <div className="  font-bold text-xl"> The wild Ossis </div>
-          <p className=" font-semibold text-sm text-gray-800">
+          <p className=" font-semibold text-sm text-black">
             Reservation management system that organizes internal reservations,
             facilitating the efficient management of hotel rooms and guests The
             system provides the capability to display detailed analytics of
@@ -60,12 +59,11 @@ function Project() {
           </div>
         </div>
       </div>
-
       <div className=" flex md:flex-row flex-col gap-3 bg-gray-100 border-t  shadow-md  rounded px-2     mb-8  ">
         <img className=" w-60 md:w-96" src="\pizaa.png" alt="project img" />
         <div className=" w-full ">
           <div className="  font-bold text-xl"> Fast Pizza </div>
-          <p className=" font-semibold text-sm text-gray-800">
+          <p className=" font-semibold text-sm text-black">
             A website that allows users to easily and efficiently order pizza
             online and allows users to dynamically monitor the status of their
             orders by ID , from order placement to delivery time
@@ -86,12 +84,11 @@ function Project() {
           </div>
         </div>
       </div>
-
       <div className=" flex md:flex-row flex-col gap-3 bg-gray-100 border-t  shadow-md  rounded px-2     mb-8  ">
         <img className=" w-60 md:w-96" src="\map.png" alt="project img" />
         <div className=" w-full ">
           <div className="  font-bold text-xl"> Mapty</div>
-          <p className=" font-semibold text-sm text-gray-800">
+          <p className=" font-semibold text-sm text-black">
             Track your daily activities on foot or on a bike review statistics
             of your daily progress and analytical insights into your activities
             Browse and review your past logs to see the evolution of your
@@ -113,7 +110,6 @@ function Project() {
           </div>
         </div>
       </div>
-
       <div className=" flex md:flex-row flex-col gap-3 bg-gray-100 border-t  shadow-md  rounded px-2     mb-3 ">
         <img
           className=" rounded w-64  md:w-96"
@@ -122,7 +118,7 @@ function Project() {
         />
         <div className=" w-full ">
           <div className="  font-bold text-xl">optimizationss</div>
-          <p className=" font-semibold text-sm text-gray-800">
+          <p className=" font-semibold text-sm text-black">
             Landing page for a restaurant.
           </p>
           <div className=" flex justify-end gap-2  ">
