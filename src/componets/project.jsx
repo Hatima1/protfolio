@@ -10,11 +10,12 @@ function Project() {
         <div className=" w-full ">
           <div className="  font-bold text-xl"> FilmSync</div>
           <p className="  font-semibold  text-sm text-black">
-            Social platform for sharing film that combines social interaction
-            and film recommendations , with the added feature of purchasing
-            cinema tickets added interactive features such as weekly film
-            suggestions and user profile picture management to enhance user
-            interaction with the platform.
+            A social platform designed for film enthusiasts that seamlessly
+            integrates social interaction and film recommendations. The platform
+            boasts additional features, such as the ability to purchase cinema
+            tickets, receive weekly film suggestions, and manage user profile
+            pictures. These enhancements aim to elevate user engagement and
+            interaction within the platform
           </p>
           <div className=" flex justify-end gap-2  ">
             <a
