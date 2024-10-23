@@ -8,7 +8,7 @@ function Hero() {
           Hello There I'm hatim
         </h2>
         <h2 className=" text-4xl font-semibold text-gray-900 mb-2">
-          Front-End React Developer
+          Full-Stack Web Developer
         </h2>
         <p className=" mb-5 text-sm   font-semibold text-gray-800 ">
           I specialize in designing and developing websites, always striving to
@@ -27,7 +27,7 @@ function Hero() {
 
           <div></div>
           <a
-            href="https://drive.google.com/file/d/1rMp6qkhQiazA8bs7keun4RBFuyPxap7c/view?usp=sharing"
+            href="https://drive.google.com/file/d/12FkvjYuJWoKcHMPnXD9-ao2NfMHNkyWt/view?usp=sharing"
             className=" flex  items-center rounded-sm  p-1  bg-gray-900  text-white text-sm font-semibold"
           >
             <FaExternalLinkAlt style={{ fontSize: "10px" }} /> open cv

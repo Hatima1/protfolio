@@ -6,12 +6,16 @@ function About() {
 
         <div className=" flex  ">
           <p className=" text-sm md:text-lg text-gray-100  font-semibold   ">
-            I'm a front end developer with four years of experience in web
-            development. Specializing in designing and developing user
-            experiences that are responsive across various devices, I am
-            passionate about optimizing web performance. I strive to transform
-            ideas into reality and always looking forward to new challenges.When
-            I'm not coding, you'll find me playing chess.
+            I'm a Full-Stack Web Developer with four years of experience in web
+            development. I builds modern and effective web applications. I have
+            experience in creating user-friendly front-end interfaces with
+            React.js and JavaScript (ES6+), as well as strong back-end services
+            using Node.js and Express. I focus on delivering solutions that are
+            both innovative and responsive, while also ensuring good performance
+            and security. I love turning ideas into practical applications,
+            whether through designing attractive interfaces or developing
+            reliable back-end systems.When I'm not coding, you'll find me
+            playing chess.
           </p>
           {/* <div className="  flex-shrink w-96 ">
             <img
