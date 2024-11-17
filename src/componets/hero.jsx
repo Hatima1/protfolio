@@ -8,7 +8,7 @@ function Hero() {
           Hello There I'm hatim
         </h2>
         <h2 className=" text-4xl font-semibold text-gray-900 mb-2">
-          Full-Stack Web Developer
+          Full-Stack Developer
         </h2>
         <p className=" mb-5 text-sm   font-semibold text-gray-800 ">
           I specialize in designing and developing websites, always striving to
