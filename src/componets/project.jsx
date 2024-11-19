@@ -60,31 +60,7 @@ function Project() {
           </div>
         </div>
       </div>
-      <div className=" flex md:flex-row flex-col gap-3 bg-gray-100 border-t  shadow-md  rounded px-2    mb-8  ">
-        <img className=" w-60 md:w-96" src="/natours.png" alt="prject" />
-        <div className=" w-full ">
-          <div className="  font-bold text-xl"> natours </div>
-          <p className=" font-semibold text-sm text-black">
-            tour booking platform with a secure Node.js backend, MongoDB
-            database, user authentication, CRUD operations, and a review system
-            for user feedback.
-          </p>
-          <div className=" flex justify-end gap-2  ">
-            <a
-              className=" font-semibold text-sm text-gray-900 underline"
-              href="https://the-wild-oassis.vercel.app/"
-            >
-              see live
-            </a>
-            <a
-              className=" font-semibold text-sm text-gray-900 underline"
-              href="https://github.com/Hatima1/the-wild-oasiss"
-            >
-              Github
-            </a>
-          </div>
-        </div>
-      </div>
+
       <div className=" flex md:flex-row flex-col gap-3 bg-gray-100 border-t  shadow-md  rounded px-2     mb-8  ">
         <img className=" w-60 md:w-96" src="\pizaa.png" alt="project img" />
         <div className=" w-full ">
@@ -104,6 +80,31 @@ function Project() {
             <a
               className=" font-semibold text-sm text-gray-900 underline"
               href="https://github.com/Hatima1/fast-react-pizza"
+            >
+              Github
+            </a>
+          </div>
+        </div>
+      </div>
+      <div className=" flex md:flex-row flex-col gap-3 bg-gray-100 border-t  shadow-md  rounded px-2    mb-8  ">
+        <img className=" w-60 md:w-96" src="/natours.png" alt="prject" />
+        <div className=" w-full ">
+          <div className="  font-bold text-xl"> natours </div>
+          <p className=" font-semibold text-sm text-black">
+            tour booking platform with a secure Node.js backend, MongoDB
+            database, user authentication, CRUD operations, and a review system
+            for user feedback.
+          </p>
+          <div className=" flex justify-end gap-2  ">
+            <a
+              className=" font-semibold text-sm text-gray-900 underline"
+              href="https://natours-three-xi.vercel.app/"
+            >
+              see live
+            </a>
+            <a
+              className=" font-semibold text-sm text-gray-900 underline"
+              href="https://github.com/Hatima1/natours"
             >
               Github
             </a>
